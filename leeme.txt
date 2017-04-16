@@ -1,6 +1,10 @@
 En el presente trabajo se pretende hacer uso de las hojas de estilo como ficheros independientes de un sitio web HTML que sea XHTL 1.0 Strict y valide.
 
-En el archivo CSS se han asignado valores a varias propiedades de distintos elementos para facilitar la consecuci�n de los objetivos marcados en los requerimientos de la pr�ctica. Asimismo se incluyen comentarios que indican de forma resumida cu�l es la funci�n de cada regla.
+En el archivo CSS se han asignado valores a varias propiedades de distintos elementos para facilitar la consecución de los objetivos marcados en los requerimientos de la práctica. Asimismo se incluyen comentarios que indican de forma resumida cuál es la función de cada regla.
 
-El sitio web est� publicado en GitHub en el siguiente enlace:
-https://ferfidfer.github.io/XHTML-CSS/Covadonga.html
+ESte trabajo parte de otro anterior. Se trata de mantener la esencia del diseño del primero pero incluyendo nuevos elementos. En esta ocasión se incluyen cajas flotantes, bloques div y una página aparte para envío de información por correo electrónico, bien a través de un formulario, bien directamente. También se han incluido conceptos propios del dimensionamiento de los elementos en la web, como son los bordes, márgenes, dimensiones, posicionamiento y colores de fondo, entre otros.
+La inclusión de nuevos elementos permite realizar algunos cambios en el diseño, consiguiendo así una apariencia mejorada. 
+
+El sitio web está publicado en GitHub en los siguientes enlaces:
+Versión inicial: https://ferfidfer.github.io/XHTML-CSS/Covadonga.html
+Versión mejorada: https://ferfidfer.github.io/XHTML-CSS/Covadonga_T2.html
